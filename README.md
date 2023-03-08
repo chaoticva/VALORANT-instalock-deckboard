@@ -2,6 +2,13 @@
 # VALORANT-instalock-deckboard
 
 
+## Requirements
+
+- Deckboard
+- Java 18 or greater
+- ViDeC
+
+
 ## Author
 
 - [neariyeveryone](https://www.github.com/neariyeveryone) at [Entisy](https://www.github.com/Entisy-com)
